@@ -170,7 +170,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
 </details>
 
 <!--
-  <<< Author notes: Step 4 >>>
+  <<< Author🐱 notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
